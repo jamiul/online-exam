@@ -1,0 +1,7 @@
+button.btn-outline-danger {
+    color: white;
+    background: red;
+    font-size: 18px;
+    padding: 4px 25px;
+    font-weight: 600;
+}
